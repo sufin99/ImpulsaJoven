@@ -15,7 +15,7 @@ public class Ex07 {
             if (c <= '0' || c >= '9')
             {
                 System.out.println("Tiene que ser un número");
-                System.exit(0);;
+                System.exit(0);
             }
             i++;
         }
