@@ -1,4 +1,4 @@
-package Java.Tema_1.Ex_T02.Strings;
+package Java.Tema_1.Ex_U02.Strings;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Java.Tema_1.Ex_T03;
+package Java.Tema_1.Ex_U03;
 
 import java.util.Scanner;
 

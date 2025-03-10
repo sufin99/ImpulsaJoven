@@ -1,7 +1,7 @@
-package Java.Tema_1.Ex_T03.Ex05;
+package Java.Tema_1.Ex_U03.Ex05;
 import java.util.Scanner;
 
-import Java.Tema_1.Ex_T03.Ex05.*;
+import Java.Tema_1.Ex_U03.Ex05.*;
 
 public class Main {
     public static void main(String[] args) {

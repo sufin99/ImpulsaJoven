@@ -1,4 +1,4 @@
-package Java.Tema_1.Ex_T02.Arrays;
+package Java.Tema_1.Ex_U02.Arrays;
 
 import java.util.Scanner;
 

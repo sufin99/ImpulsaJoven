@@ -1,4 +1,4 @@
-package Java.Ex_T01;
+package Java.Tema_1.Ex_U01;
 import java.util.Scanner;
 
 public class Ex05 {
